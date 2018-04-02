@@ -1,0 +1,26 @@
+[33mcommit e57985b3902ce09d6031dc062e5e4710c3430ebf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <sowmyasony12797@gmail.com>
+Date:   Mon Apr 2 12:34:44 2018 +0530
+
+    added files
+
+[33mcommit 0c8fd8d18e6b593f0210a772c835a771750e14e0[m
+Merge: 9710d07 3417c7d
+Author: sowmyasony <37995732+sowmyasony@users.noreply.github.com>
+Date:   Mon Apr 2 11:59:49 2018 +0530
+
+    Merge pull request #1 from sowmyasony/readme-edits
+    
+    I described about myself in a simpleway
+
+[33mcommit 3417c7d9ec5017a0b66f8397cf09d8245ee06b4b[m[33m ([m[1;31morigin/readme-edits[m[33m)[m
+Author: sowmyasony <37995732+sowmyasony@users.noreply.github.com>
+Date:   Mon Apr 2 11:54:07 2018 +0530
+
+    I described about myself in a simpleway
+
+[33mcommit 9710d07e1ce4f0e6ac327953b1fd2beb979326be[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: sowmyasony <37995732+sowmyasony@users.noreply.github.com>
+Date:   Mon Apr 2 11:45:07 2018 +0530
+
+    Initial commit
