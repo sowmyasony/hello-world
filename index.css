@@ -2,7 +2,7 @@ body{
   background: yellow;
 }
 .flex-parent{
-  display: flex;
+  direction: flex;
   flex-direction: row;
   justify-content: center;
 }
@@ -30,4 +30,92 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+h1,#roll{
+  text-align: center;
+  text-transform: capitalize;;
+  color: red;
+}
+a{
+  text-decoration: none;
+}
+@media only screen and (min-width:320px) and (max-width:480px) {
+.flex-parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.profile{
+  width: 100%;
+  height: auto;
+  background: #fff;
+  margin: 2%;
+  padding: 1;
+  border: 2px solid #000;
+  border-radius:  20px;
+
+}
+
+.content{
+  width: 100%;
+  height: auto;
+  background: #fff;
+  margin: 2%;
+  padding: 1;
+  border: 2px solid #000;
+  border-radius:  20px;
+}
+}
+
+@media only screen and (min-width:480px) and (max-width:760px) {
+.flex-parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.profile{
+  width: 100%;
+  height: auto;
+  background: blue;
+  margin: 2%;
+  padding: 1;
+  border: 2px solid #000;
+  border-radius:  20px;
+
+}
+.content{
+  width: 100%;
+  height: auto;
+  background: #fff;
+  margin: 2%;
+  padding: 1;
+  border: 2px solid #000;
+  border-radius:  20px;
+}
+}
+@media only screen and (min-width:760px) and (max-width:1024px) {
+.flex-parent{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.profile{
+  width: 100%;
+  height: auto;
+  background: blue;
+  margin: 2%;
+  padding: 1;
+  border: 2px solid #000;
+  border-radius:  20px;
+
+}
+.content{
+  width: 100%;
+  height: auto;
+  background: #fff;
+  margin: 2%;
+  padding: 1;
+  border: 2px solid #000;
+  border-radius:  20px;
+}
 }

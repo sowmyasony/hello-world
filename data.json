@@ -1,0 +1,17 @@
+{
+  "career":{
+    "info":"to pursue a challening career."
+  },
+  "education":[
+    {
+      "degree":"ssc",
+      "school":"bhashyam publicschool",
+      "data":["2013","80%"]
+    },
+    {
+      "degree":"intermediate",
+      "college":"sri chaitanya junior college",
+        "data":["2015","80%"]
+      }
+  ]
+}
