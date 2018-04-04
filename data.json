@@ -12,6 +12,37 @@
       "degree":"intermediate",
       "college":"sri chaitanya junior college",
         "data":["2015","80%"]
+      },
+      {
+        "degree":"btech",
+        "school":"vidyanikethan engineering college",
+        "data":["2019","80%"]
       }
+  ],
+  "skills":[
+            {
+              "name":"operating system",
+              "info":["windows","linux","fedora","redhat"]
+            },
+                    {
+                      "name":"languages",
+                      "info":["c","java","cpp","python"]
+                    },
+                              {
+                                "languages known":"languages",
+                                "info":["tamil","telugu","english"]
+                              },
+                                      {
+                                          "name":"database",
+                                          "info":["oracle","mysql","mongodb","cybase"]
+                                      },
+                                        {
+                                                  "name":"web technologies",
+                                                  "info":["html","css","javascript"]
+                                        },
+                                            {
+                                                  "name":"frameworks",
+                                                  "info":["bootstrap",".net"]
+                                            }
   ]
 }
